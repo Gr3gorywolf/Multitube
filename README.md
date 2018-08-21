@@ -19,3 +19,4 @@ Features
 </ul>
 More features and app info & download on app's
 <a href='https://gr3gorywolf.github.io/multitubepage.github.io'>Official website</a>
+or you can also download the installer from <a href='https://mega.nz/#!YY4xmAwK!FihbL7nCEnLXiXpzMERIgfOSPBJ2cO2-76Hdbh0tWec'> Here</a>
