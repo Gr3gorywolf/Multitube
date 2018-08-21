@@ -17,5 +17,5 @@ Features
 <li>Custom youtube videos searcher</li>
 <li>Customizable UI colors</li>
 </ul>
-More features and info on app's official webpage
+More features and app info & download on app's official website
 <a>https://gr3gorywolf.github.io/multitubepage.github.io</a>
