@@ -1,0 +1,766 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FD4585DE-6A17-402A-B3D3-04BFFA015A2F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GR3_UiF</RootNamespace>
+    <AssemblyName>Multitube</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\app publica\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>youtube pc remote server</ProductName>
+    <PublisherName>Gregory</PublisherName>
+    <SuiteName>GR3</SuiteName>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>65753E554095DCAE4FAF1688B4242F6D4A610B5F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>GR3 UiF_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FluentFTP, Version=19.1.2.0, Culture=neutral, PublicKeyToken=f4af092b1d8df44f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentFTP.19.1.2\lib\net45\FluentFTP.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="libvideo">
+      <HintPath>..\..\App1 v3\libvideo.dll\libvideo.dll</HintPath>
+    </Reference>
+    <Reference Include="MACTrackBarLib, Version=1.0.5896.38740, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MACTrackBarLib.dll.1.0.2\lib\net40\MACTrackBarLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MediaToolkit, Version=1.1.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MediaToolkit.1.1.0.1\lib\net40\MediaToolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\prueba de lista generica\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\prueba de lista generica\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\prueba de lista generica\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="mooftpservlib">
+      <HintPath>..\mooftpservlib.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Activities" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Extensions, Version=2.2.28.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Net.Http.2.2.28\lib\net45\System.Net.Http.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives, Version=4.2.28.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Net.Http.2.2.28\lib\net45\System.Net.Http.Primitives.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Activities" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="YoutubeSearch">
+      <HintPath>..\..\prueba de lista generica\packages\YoutubeSearch.dll.1.1\lib\YoutubeSearch.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing, Version=0.14.0.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.14.0.1\lib\net40\zxing.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.14.0.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.14.0.1\lib\net40\zxing.presentation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="agregarelementoaplaylist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="agregarelementoaplaylist.Designer.cs">
+      <DependentUpon>agregarelementoaplaylist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asistente de conexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asistente de conexion.Designer.cs">
+      <DependentUpon>Asistente de conexion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="buscaelementosenlista.cs" />
+    <Compile Include="claseanimaciones.cs" />
+    <Compile Include="Configs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configs.Designer.cs">
+      <DependentUpon>Configs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="configuraciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="configuraciones.Designer.cs">
+      <DependentUpon>configuraciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Daemon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Daemon.Designer.cs">
+      <DependentUpon>Daemon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete playlistelements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete playlistelements.Designer.cs">
+      <DependentUpon>delete playlistelements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogoeliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogoeliminar.Designer.cs">
+      <DependentUpon>Dialogoeliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customdialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customdialog.Designer.cs">
+      <DependentUpon>customdialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custompanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Customwebbrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customwebbrowser.Designer.cs">
+      <DependentUpon>Customwebbrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete playlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete playlist.Designer.cs">
+      <DependentUpon>delete playlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Downloader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Downloader.Designer.cs">
+      <DependentUpon>Downloader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Downloader2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Downloader2.Designer.cs">
+      <DependentUpon>Downloader2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fdescarga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fdescarga.Designer.cs">
+      <DependentUpon>Fdescarga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1 - Copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1 - Copy.Designer.cs">
+      <DependentUpon>Form1 - Copy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlistadescarga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlistadescarga.Designer.cs">
+      <DependentUpon>Formlistadescarga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formseleccionarchivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formseleccionarchivo.Designer.cs">
+      <DependentUpon>formseleccionarchivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formsincronizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formsincronizacion.Designer.cs">
+      <DependentUpon>formsincronizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formsyncoffline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formsyncoffline.Designer.cs">
+      <DependentUpon>formsyncoffline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ftpcliente.cs" />
+    <Compile Include="ftpserver.cs" />
+    <Compile Include="fullscreen mediaplayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fullscreen mediaplayer.Designer.cs">
+      <DependentUpon>fullscreen mediaplayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Geteartitulo.cs" />
+    <Compile Include="la clase.cs" />
+    <Compile Include="languajeselector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="languajeselector.Designer.cs">
+      <DependentUpon>languajeselector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Load_playlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Load_playlist.Designer.cs">
+      <DependentUpon>Load_playlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Load_playlist2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Load_playlist2.Designer.cs">
+      <DependentUpon>Load_playlist2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Minireproductor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Minireproductor.Designer.cs">
+      <DependentUpon>Minireproductor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="monoflat_theme_-_c#.cs" />
+    <Compile Include="notificacionactualizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="notificacionactualizacion.Designer.cs">
+      <DependentUpon>notificacionactualizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="notificacionagregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="notificacionagregar.Designer.cs">
+      <DependentUpon>notificacionagregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notificacionconectado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notificacionconectado.Designer.cs">
+      <DependentUpon>Notificacionconectado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="notification bar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="notification bar.Designer.cs">
+      <DependentUpon>notification bar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Save_playlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Save_playlist.Designer.cs">
+      <DependentUpon>Save_playlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Selector de modo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Selector de modo.Designer.cs">
+      <DependentUpon>Selector de modo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Volumedialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Volumedialog.Designer.cs">
+      <DependentUpon>Volumedialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Webbrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Webbrowser.Designer.cs">
+      <DependentUpon>Webbrowser.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="agregarelementoaplaylist.resx">
+      <DependentUpon>agregarelementoaplaylist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asistente de conexion.resx">
+      <DependentUpon>Asistente de conexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configs.resx">
+      <DependentUpon>Configs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="configuraciones.resx">
+      <DependentUpon>configuraciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Daemon.resx">
+      <DependentUpon>Daemon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete playlistelements.resx">
+      <DependentUpon>delete playlistelements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogoeliminar.resx">
+      <DependentUpon>Dialogoeliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customdialog.resx">
+      <DependentUpon>customdialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custompanel.resx">
+      <DependentUpon>Custompanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customwebbrowser.resx">
+      <DependentUpon>Customwebbrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete playlist.resx">
+      <DependentUpon>delete playlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Downloader.resx">
+      <DependentUpon>Downloader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Downloader2.resx">
+      <DependentUpon>Downloader2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fdescarga.resx">
+      <DependentUpon>Fdescarga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1 - Copy.resx">
+      <DependentUpon>Form1 - Copy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlistadescarga.resx">
+      <DependentUpon>Formlistadescarga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formseleccionarchivo.resx">
+      <DependentUpon>formseleccionarchivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formsincronizacion.resx">
+      <DependentUpon>formsincronizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formsyncoffline.resx">
+      <DependentUpon>formsyncoffline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fullscreen mediaplayer.resx">
+      <DependentUpon>fullscreen mediaplayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="languajeselector.resx">
+      <DependentUpon>languajeselector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Load_playlist.resx">
+      <DependentUpon>Load_playlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Load_playlist2.resx">
+      <DependentUpon>Load_playlist2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minireproductor.resx">
+      <DependentUpon>Minireproductor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="notificacionactualizacion.resx">
+      <DependentUpon>notificacionactualizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="notificacionagregar.resx">
+      <DependentUpon>notificacionagregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notificacionconectado.resx">
+      <DependentUpon>Notificacionconectado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="notification bar.resx">
+      <DependentUpon>notification bar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Save_playlist.resx">
+      <DependentUpon>Save_playlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selector de modo.resx">
+      <DependentUpon>Selector de modo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Volumedialog.resx">
+      <DependentUpon>Volumedialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Webbrowser.resx">
+      <DependentUpon>Webbrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="GR3 UiF_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Scripts\bower.json" />
+    <None Include="Scripts\build.log" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\portada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paint-board-and-brush.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musica-searcher.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reply-all-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-arrow-circular-symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause-play-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chevron-arrow-up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chevron-arrow-down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speaker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speaker %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\repeat %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\repeat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paper-bin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paper-bin %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bottle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-button %281%29.png" />
+    <None Include="Resources\play-button %282%29.png" />
+    <None Include="Resources\right-arrow1.png" />
+    <None Include="Resources\backup.png" />
+    <None Include="Resources\backup %281%29.png" />
+    <None Include="Resources\backup %282%29.png" />
+    <None Include="Resources\save1.png" />
+    <None Include="Resources\left-arrow.png" />
+    <None Include="Resources\menu-button-of-three-horizontal-lines.png" />
+    <None Include="Resources\menu-button-of-three-horizontal-lines %281%29.png" />
+    <None Include="Resources\menu-button-of-three-horizontal-lines %282%29.png" />
+    <None Include="Resources\menu.png" />
+    <None Include="Resources\menu %281%29.png" />
+    <None Include="Resources\clipboard.png" />
+    <None Include="Resources\clipboard %281%29.png" />
+    <None Include="Resources\clipboard %282%29.png" />
+    <None Include="Resources\clipboard %283%29.png" />
+    <None Include="Resources\clipboard %284%29.png" />
+    <None Include="Resources\clipboard %285%29.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\cancel.png" />
+    <None Include="Resources\cross-out.png" />
+    <None Include="Resources\right-arrow2.png" />
+    <None Include="Resources\delete %281%29.png" />
+    <None Include="Resources\youtube-logo.png" />
+    <None Include="Resources\close-button.png" />
+    <None Include="Resources\close-button %281%29.png" />
+    <None Include="Resources\close-circular-button-of-a-cross.png" />
+    <None Include="Resources\plus %281%29.png" />
+    <None Include="Resources\plus.png" />
+    <None Include="Resources\minus.png" />
+    <None Include="Resources\pc-computer-with-monitor.png" />
+    <None Include="Resources\left-arrow %281%29.png" />
+    <None Include="Resources\arrow-pointing-to-right.png" />
+    <None Include="Resources\right-arrow3.png" />
+    <None Include="Resources\add-list.png" />
+    <None Include="Resources\playlist-plus.png" />
+    <None Include="Resources\playlist-remove %282%29.png" />
+    <None Include="Resources\playlist-remove %283%29.png" />
+    <None Include="Resources\playlist-play %281%29.png" />
+    <None Include="Resources\playlist-minus.png" />
+    <None Include="Resources\playlist-plus %281%29.png" />
+    <None Include="Resources\playlist-plus %282%29.png" />
+    <None Include="Resources\playlist-minus %281%29.png" />
+    <None Include="Resources\ic_playlist_add_white_48dp.png" />
+    <None Include="Resources\ic_playlist_play_white_48dp.png" />
+    <None Include="Resources\gregory.png" />
+    <None Include="Resources\refresh.png" />
+    <Content Include="favicon.ico" />
+    <None Include="Resources\folder %282%29.png" />
+    <None Include="Resources\pause %282%29.png" />
+    <None Include="Resources\pause %283%29.png" />
+    <None Include="Resources\pausebutton2.png" />
+    <None Include="Resources\previous %282%29.png" />
+    <None Include="Resources\skip %282%29.png" />
+    <None Include="Resources\down-chevron.png" />
+    <None Include="Resources\files.png" />
+    <None Include="Resources\listing-option.png" />
+    <None Include="Resources\minimizeee.png" />
+    <None Include="Resources\fullscreen.png" />
+    <None Include="Resources\searchblack.png" />
+    <None Include="Resources\homeblack.png" />
+    <None Include="Resources\deleteblack.png" />
+    <None Include="Resources\folderblack.png" />
+    <None Include="Resources\folderblack1.png" />
+    <None Include="Resources\saveblack.png" />
+    <None Include="Resources\right-arrowblack.png" />
+    <None Include="Resources\downloadblack.png" />
+    <None Include="Resources\play-buttonblack.png" />
+    <None Include="Resources\play-buttonblack %282%29.png" />
+    <None Include="Resources\plusblack.png" />
+    <None Include="Resources\pause1.png" />
+    <None Include="Resources\circular-pause-button.png" />
+    <None Include="Resources\play-arrow-triangle-in-circular-button-outline.png" />
+    <None Include="Resources\close-circular-button-of-a-crossblack.png" />
+    <None Include="Resources\left-arrowback.png" />
+    <None Include="Resources\smartphone-callblack.png" />
+    <None Include="Resources\pc-computer-with-monitorblack.png" />
+    <None Include="Resources\skipblack.png" />
+    <None Include="Resources\previousblack%29.png" />
+    <None Include="Resources\addblack.png" />
+    <Content Include="Resources\song-playlist %281%29.png" />
+    <None Include="Resources\song-playlist %281%291.png" />
+    <None Include="Resources\sync.png" />
+    <None Include="Resources\sort-down.png" />
+    <None Include="Resources\sort-down %281%29.png" />
+    <None Include="Resources\star.png" />
+    <None Include="Resources\star %281%29.png" />
+    <None Include="Resources\up-chevron.png" />
+    <None Include="Resources\video-player.png" />
+    <None Include="Resources\synchronizationblack.png" />
+    <None Include="Resources\starblack.png" />
+    <None Include="Resources\subtract-signblack.png" />
+    <None Include="Resources\speakerblack.png" />
+    <Content Include="tablet-and-laptop %281%29.ico" />
+    <None Include="Resources\boton_cerrar.png" />
+    <None Include="Resources\smartphone-call.png" />
+    <Content Include="Laptop Phone.ico" />
+    <Content Include="Scripts\LICENSE.txt" />
+    <Content Include="Scripts\polymer-micro.html" />
+    <Content Include="Scripts\polymer-mini.html" />
+    <Content Include="Scripts\polymer.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

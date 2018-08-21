@@ -1,0 +1,302 @@
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\bin\Release\GR3 UiF.exe.config
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\obj\Release\Interop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\obj\Release\GR3 UiF.csproj.ResolveComReference.cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\bin\Release\GR3 UiF.exe
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\bin\Release\GR3 UiF.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\bin\Release\WindowsInput.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\bin\Release\YoutubeExtractor.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\bin\Release\WindowsInput.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\bin\Release\YoutubeExtractor.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\obj\Release\GR3 UiF.csprojResolveAssemblyReference.cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\obj\Release\GR3_UiF.configuraciones.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\obj\Release\GR3_UiF.Downloader.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\obj\Release\GR3_UiF.Form1.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\obj\Release\GR3_UiF.Properties.Resources.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\obj\Release\GR3 UiF.csproj.GenerateResource.Cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\obj\Release\GR3 UiF.exe
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF\GR3 UiF\obj\Release\GR3 UiF.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\GR3 UiF.exe
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\GR3 UiF.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\YoutubeExtractor.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\Interop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\MACTrackBarLib.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\GR3 UiF.exe.config
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\Interop.WMPLib.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\AxInterop.WMPLib.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3 UiF.csproj.ResolveComReference.cache
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3 UiF.exe
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3 UiF.pdb
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\GR3 UiF.exe
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\GR3 UiF.pdb
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\MACTrackBarLib.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\taglib-sharp.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\WindowsInput.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\YoutubeExtractor.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\Newtonsoft.Json.xml
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\WindowsInput.xml
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\YoutubeExtractor.xml
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\Interop.WMPLib.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\AxInterop.WMPLib.dll
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3 UiF.csprojResolveAssemblyReference.cache
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Configs.resources
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.configuraciones.resources
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Downloader.resources
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Fdescarga.resources
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Form1.resources
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.notification_bar.resources
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Properties.Resources.resources
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Webbrowser.resources
+C:\Users\lou\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3 UiF.csproj.GenerateResource.Cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\GR3 UiF.exe.config
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\Interop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3 UiF.csproj.ResolveComReference.cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\taglib-sharp.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\WindowsInput.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\WindowsInput.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\YoutubeExtractor.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3 UiF.csprojResolveAssemblyReference.cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Configs.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.configuraciones.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Downloader.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Fdescarga.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Form1.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.notification_bar.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Properties.Resources.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Webbrowser.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3 UiF.csproj.GenerateResource.Cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3 UiF.exe
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3 UiF.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\AlphaGradientPanel.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.customdialog.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\zxing.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\zxing.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Asistente_de_conexion.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\zxing.presentation.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\zxing.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\zxing.presentation.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\zxing.presentation.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\MetroFramework.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\obj\Release\GR3_UiF.Customwebbrowser.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\MetroFramework.Design.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 2\GR3 UiF\bin\Release\YoutubeSearch.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\Interop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3 UiF.csproj.ResolveComReference.cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3_UiF.Asistente_de_conexion.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3_UiF.Configs.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3_UiF.configuraciones.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3_UiF.customdialog.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3_UiF.Customwebbrowser.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3_UiF.Downloader.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3_UiF.Fdescarga.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3_UiF.Form1.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3_UiF.notification_bar.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3_UiF.Properties.Resources.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3_UiF.Webbrowser.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3 UiF.csproj.GenerateResource.Cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\GR3 UiF.exe.config
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\GR3 UiF.exe
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\GR3 UiF.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\AlphaGradientPanel.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\MACTrackBarLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\MetroFramework.Design.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\MetroFramework.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\taglib-sharp.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\WindowsInput.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\YoutubeExtractor.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\YoutubeSearch.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\zxing.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\zxing.presentation.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\WindowsInput.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\YoutubeExtractor.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\zxing.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\zxing.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\zxing.presentation.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\zxing.presentation.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\Interop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3 UiF.exe
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3 UiF.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3 UiF.csprojResolveAssemblyReference.cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3_UiF.Volumedialog.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 3\GR3 UiF\obj\Release\GR3_UiF.languajeselector.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\GR3 UiF.exe.config
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\Interop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3 UiF.csproj.ResolveComReference.cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3 UiF.exe
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3 UiF.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\GR3 UiF.exe
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\GR3 UiF.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\AlphaGradientPanel.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\MACTrackBarLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\MetroFramework.Design.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\MetroFramework.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\taglib-sharp.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\WindowsInput.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\YoutubeExtractor.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\YoutubeSearch.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\zxing.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\zxing.presentation.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\WindowsInput.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\YoutubeExtractor.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\zxing.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\zxing.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\zxing.presentation.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\zxing.presentation.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\Interop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3 UiF.csprojResolveAssemblyReference.cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.Asistente_de_conexion.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.Configs.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.configuraciones.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.customdialog.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.Customwebbrowser.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.Downloader.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.Fdescarga.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.Form1.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.languajeselector.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.notification_bar.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.Properties.Resources.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.Volumedialog.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.Webbrowser.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3 UiF.csproj.GenerateResource.Cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.Save_playlist.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.Load_playlist.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 4\GR3 UiF\obj\Release\GR3_UiF.Load_playlist2.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\GR3 UiF.exe.config
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\Interop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3 UiF.csproj.ResolveComReference.cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3 UiF.exe
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3 UiF.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\GR3 UiF.exe
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\GR3 UiF.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\AlphaGradientPanel.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\MACTrackBarLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\MetroFramework.Design.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\MetroFramework.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\taglib-sharp.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\WindowsInput.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\YoutubeExtractor.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\YoutubeSearch.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\zxing.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\zxing.presentation.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\WindowsInput.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\YoutubeExtractor.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\zxing.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\zxing.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\zxing.presentation.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\zxing.presentation.xml
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\Interop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3 UiF.csprojResolveAssemblyReference.cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.Asistente_de_conexion.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.Configs.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.configuraciones.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.customdialog.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.Customwebbrowser.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.Downloader.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.Fdescarga.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.Form1.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.languajeselector.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.Load_playlist.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.Load_playlist2.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.notification_bar.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.Properties.Resources.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.Save_playlist.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.Volumedialog.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.Webbrowser.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3 UiF.csproj.GenerateResource.Cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.delete_playlist.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 5\GR3 UiF\obj\Release\GR3_UiF.Custompanel.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\bin\Release\GR3 UiF.exe.config
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3 UiF.csproj.App.config
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\Interop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3 UiF.csproj.ResolveComReference.cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3 UiF.exe
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3 UiF.pdb
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3 UiF.csprojResolveAssemblyReference.cache
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.agregarelementoaplaylist.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Asistente_de_conexion.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Configs.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.configuraciones.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.delete_playlistelements.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.dialogoeliminar.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.customdialog.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Custompanel.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Customwebbrowser.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.delete_playlist.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Downloader.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Downloader2.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Fdescarga.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Form1.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Formlistadescarga.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.formseleccionarchivo.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.formsincronizacion.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.fullscreen_mediaplayer.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.languajeselector.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Load_playlist.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Load_playlist2.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Minireproductor.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.notification_bar.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Properties.Resources.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Save_playlist.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Volumedialog.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3_UiF.Webbrowser.resources
+C:\Users\Gr3\Documents\Visual Studio 2015\Projects\GR3 UiF 8\GR3 UiF\obj\Release\GR3 UiF.csproj.GenerateResource.Cache
